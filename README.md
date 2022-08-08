@@ -24,3 +24,6 @@ Any customer who wants to interact with us can do so by using this contact us pa
 
 
 ![ss5](https://user-images.githubusercontent.com/88972972/183456618-76438725-8a7f-41bf-b6ce-a900ce2d25eb.jpg)
+
+
+Link to the website :https://orange-tree-0f6c0de10.1.azurestaticapps.net
